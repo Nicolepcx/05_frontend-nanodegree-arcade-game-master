@@ -12,7 +12,7 @@
 
 #### Overall accomplishment:
 
-** Game objects (player and bugs) are implemented using JavaScript object-oriented programming features.
+* Game objects (player and bugs) are implemented using JavaScript object-oriented programming features.
 
 
 #### Play Game:
